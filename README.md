@@ -32,8 +32,9 @@ and rotation degrees (out of 360degrees) as timekeeping on Mars.
 
 !!!!! Mathematical conversions are sourced in ### CONVERSION NUMBERS, subject to change with more accurate information.
 Runs in python 3.6.
-Not for professional purposes. Code author created this have accurate world building for a sci-fi novel. If anyone
-likes to read sci-fi novels about the doom of a Mars colony and extreme human suffering hit me up!"""
+Not for professional purposes. Code author created this to have accurate world building for a sci-fi novel. If anyone
+likes to read sci-fi novels about the doom of a Mars colony and extreme human suffering hit me up!
+NB: I 100% support Mars and space exploration and think it's the direction people should be taking and think it will be successful and beneficial to humanity. I just like scary books. """
 
 
 __author__ = "Diane Magnin"
