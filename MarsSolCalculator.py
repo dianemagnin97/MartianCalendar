@@ -172,7 +172,7 @@ days_diff = Date_to_calculate_in_days - Date_landing_in_days
 
 # generate calendar log: Earth date = X Mars Years + X Sols
 Difference_in_years = Date_to_calculate_AD - Sol_1_Earth_Year
-Difference_in_days = Difference_in_years*365.25 + days_diff
+Difference_in_days = Difference_in_years*365.25 + days_diff #### the 0.25 adds up!! check Difference_in_years vars
 Difference_in_sols = Difference_in_days*24/SolInHours
 Difference_in_MY = Difference_in_sols/MarsYearInSols
 Date_year = int(Difference_in_MY)
